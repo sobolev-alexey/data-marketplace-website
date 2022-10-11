@@ -1,0 +1,55 @@
+{
+  "name": "data-marketplace",
+  "version": "3.0.1",
+  "description": "IOTA Data Marketplace",
+  "author": "Alexey Sobolev",
+  "contributors": [
+      "Alexey Sobolev <hello@lexer.dev> (https://lexer.dev)"
+  ],
+  "keywords": [
+    "iota",
+    "tangle",
+    "mam",
+    "data marketplace",
+    "sensor",
+    "API"
+  ],
+  "license": "Apache-2.0",
+  "private": true,
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "in-view": "^0.6.1",
+    "lodash-es": "^4.17.21",
+    "react": "^18.2.0",
+    "react-burger-menu": "^3.0.8",
+    "react-cookie": "^4.1.1",
+    "react-dom": "^18.2.0",
+    "react-map-gl": "^6.1.19",
+    "react-redux": "^8.0.4",
+    "react-router": "^6.4.2",
+    "react-router-dom": "^6.4.2",
+    "react-slick": "^0.29.0",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6",
+    "redux-pack": "^0.1.5",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "5.3.6",
+    "webfontloader": "^1.6.28"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1",
+    "sass": "^1.55.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "export GENERATE_SOURCEMAP=false && react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    "> 2%",
+    "last 2 versions",
+    "edge >= 16"
+  ]
+}

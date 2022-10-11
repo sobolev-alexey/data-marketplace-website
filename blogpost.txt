@@ -1,0 +1,13 @@
+*Call to action*
+How it is your turn to take the source code (insert link: https://github.com/iotaledger/data-marketplace) of this application and create something really amazing with it!
+
+It's an opportunity for the community and larger companies to take this project to the next level.
+We are open for feedback and suggestions of any kind.
+
+Please use the contact form on this (insert link: https://marketplacev2.firebaseapp.com/#/involved) page to send us your feedback, questions or cooperation requests.
+
+*Note about documentation:*
+We also just released a brand new documentation site, where you can find all information about IOTA technology and libraries.
+
+
+
